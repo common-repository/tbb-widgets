@@ -1,0 +1,3 @@
+<label for="<?php echo $this->get_field_id( $field['id'] ); ?>"><?php echo $field['title']  ?></label><br>
+<input class="tbb-widget-switch" type='checkbox' value="<?php echo $value ?>" name='<?php echo $this->get_field_name( $field['id'] ); ?>' id='<?php echo $this->get_field_id( $field['id'] ); ?>-checkbox' <?php echo $value  ? 'checked' : ''; ?>>
+<input type='hidden' value="<?php echo $value ?>" name='<?php echo $this->get_field_name( $field['id'] ); ?>' id='<?php echo $this->get_field_id( $field['id'] ); ?>'>

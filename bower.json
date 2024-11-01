@@ -1,0 +1,11 @@
+{
+  "name": "tbb-widgets",
+  "dependencies": {
+    "bootstrap": "~3.1.1",
+    "font-awesome": "~4.0.3",
+    "select2": "~3.4.6",
+    "nouislider": "~6.0.0",
+    "bootstrap-switch": "~3.0.0",
+    "ace-builds": "~1.1.3"
+  }
+}

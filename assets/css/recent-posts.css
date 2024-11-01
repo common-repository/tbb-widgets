@@ -1,0 +1,28 @@
+.tbb-recent-posts ul {
+  list-style: none;
+  margin: 0 !important;
+  padding: 0 !important;
+}
+.tbb-recent-posts ul li {
+  margin-bottom: 10px;
+  padding-bottom: 10px;
+}
+.tbb-recent-posts ul li > a {
+  float: left;
+  border: 1px solid #e5e5e5;
+  margin-right: 5px !important;
+}
+.tbb-recent-posts ul li > a img {
+  margin: 3px;
+}
+.tbb-recent-posts ul li > h4 {
+  font-size: 0.95em;
+  margin: 0 !important;
+}
+.tbb-recent-posts ul li > time {
+  font-size: 0.75em;
+}
+.tbb-recent-posts ul li p {
+  margin: 0 !important;
+  font-size: 0.95em;
+}
